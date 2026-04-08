@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	groudanagrams "leetcode/groupanagrams"
+	"leetcode/lsubstring"
 )
 
 func main() {
-	fmt.Println(groudanagrams.GroupAnagrams([]string{"eat", "tea", "tan", "ate", "nat", "bat"}))
+	fmt.Println(lsubstring.LSubString("pwwkew"))
 }
